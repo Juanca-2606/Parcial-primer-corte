@@ -1,0 +1,5 @@
+evaluar x=1 n=5
+evaluar x=2 n=10
+evaluar x=0.5 n=7
+evaluar x=3 n=3
+evaluar x=1.5 n=12

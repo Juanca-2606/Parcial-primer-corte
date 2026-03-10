@@ -1,0 +1,5 @@
+Variable1
+temp
+x
+1valor
+id_total

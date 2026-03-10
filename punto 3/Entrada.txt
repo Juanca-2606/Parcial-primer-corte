@@ -1,0 +1,4 @@
+sqrt(25)
+sqrt(2.0)
+sqrt(81)
+sqrt(-4)
