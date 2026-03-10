@@ -131,3 +131,5 @@ python punto5.py
 ## Conclusion de Pruebas
 
 Para cada uno de los puntos, se han integrado archivos de texto externos (.txt) que contienen los casos de prueba solicitados. Esto asegura la repetibilidad de los resultados y permite verificar el comportamiento del software ante entradas correctas y erroneas sin necesidad de modificar el codigo fuente.
+
+
